@@ -36,6 +36,3 @@ La tarea consistió en **modificar la aplicación base "Fundamentos de React"** 
 [Número de Grupo],[Nombre Completo del Integrante 2]
 [Número de Grupo],[Nombre Completo del Integrante N]
 
-```bash
-git clone [COLOCAR AQUÍ LA URL DE TU REPOSITORIO]
-cd [nombre-del-repositorio]
