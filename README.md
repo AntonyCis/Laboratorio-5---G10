@@ -32,7 +32,8 @@ La tarea consistió en **modificar la aplicación base "Fundamentos de React"** 
 ---
 
 ## Integrantes
-| **G10** | INTEGRANTES | 
+| G10 | INTEGRANTES | 
+| :--- | :--- |
 | **`G10`** | Antony Cisneros | 
 | **`G10`** | David Cajamarca | 
 | **`G10`** | Josselyn Ayo | 
